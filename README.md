@@ -30,7 +30,7 @@ I'm passionate about all things DevOps, coding, cloud, and automation. Whether i
 ---
 
 ### 📫 Reach Me At
-- 📧 Email: your.email@example.com
+- 📧 Email: himanshisagar1205@gmail.com
 - 💼 LinkedIn: [Himanshi Sagar](linkedin.com/in/himanshi-sagar-536404210)
 - 💬 Feel free to connect, ask questions, or just say hi!
 
